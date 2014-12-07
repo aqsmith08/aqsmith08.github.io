@@ -9,8 +9,7 @@ aqsmith08.github.io
 Put code in a block.
 ```
     add <- function(x, y) {
-        x + y
-        }
+        x + y}
 ```
 
 *This is italics.*
