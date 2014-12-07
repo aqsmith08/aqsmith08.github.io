@@ -6,8 +6,11 @@ aqsmith08.github.io
 * Item 2
 * Item 3
 
+Put code in a block.
+```
     add <- function(x, y) {
         x + y}
+```
 
 *This is italics.*
 
